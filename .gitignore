@@ -1,1 +1,6 @@
 .env
+checkpoints/
+runs/
+setfit_model/
+text_exploration.ipynb
+topic_classification.ipynb
